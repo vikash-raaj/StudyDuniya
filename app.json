@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "splash": {
+     "image": "./startt.png",
+     "resizeMode": "contain",
+     "backgroundColor": "#222431"
+
+}
+   }
+
+
+}
